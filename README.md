@@ -1,4 +1,3 @@
-GitHub Checkpoint Assignment
-# the_pantry
+# The Pantry
 
-The Pantry is a project sandbox to familiarize myself with Git.
+The Pantry is a project sandbox/checkpoint assignment to familiarize myself with GitHub.
